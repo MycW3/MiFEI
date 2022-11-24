@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "538577518009",
+    "project_id": "mifei-589d5",
+    "storage_bucket": "mifei-589d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538577518009:android:ebef0f6696432ad0df0a68",
+        "android_client_info": {
+          "package_name": "com.example.mifei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538577518009-86jkfsqhpg7hdm6vc9rcpifjnv2s4j0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdIaIZIQJR-88kGq0ozFq8pAAYZ-KO8o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538577518009-86jkfsqhpg7hdm6vc9rcpifjnv2s4j0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538577518009-4ihq4dpl3ft17djumos18a99jffmu6bq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mifei"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
